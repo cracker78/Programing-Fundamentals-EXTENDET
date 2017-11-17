@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Exercises", "2017_07_22\01.Exercises.csproj", "{890618C8-32EA-41AA-8042-3C2C9B39115B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Optimized Banking System", "Optimized Banking System\02.Optimized Banking System.csproj", "{CBA58009-09EC-455B-A096-765C7A32D302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{890618C8-32EA-41AA-8042-3C2C9B39115B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890618C8-32EA-41AA-8042-3C2C9B39115B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890618C8-32EA-41AA-8042-3C2C9B39115B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890618C8-32EA-41AA-8042-3C2C9B39115B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA58009-09EC-455B-A096-765C7A32D302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA58009-09EC-455B-A096-765C7A32D302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA58009-09EC-455B-A096-765C7A32D302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA58009-09EC-455B-A096-765C7A32D302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
